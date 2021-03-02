@@ -1,0 +1,29 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+    height: 1000px;
+  }
+  td{
+    border: 1px solid #000000;
+    text-align: center;
+    padding: 8px;
+  }
+  .one{
+      height: 50px;
+  }
+.two{
+    height: 1000px;
+    width: 20%;
+}
+.three{
+    background-color: cyan;
+    width: 20%;
+}
+.four{
+    height: 30px;
+}
+.five{
+}
+.six{
+    background-color: firebrick;
+}
